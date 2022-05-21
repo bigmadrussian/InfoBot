@@ -1,0 +1,182 @@
+{
+    "531396": {
+        "article_date_timestamp": 1651235810.0,
+        "article_title": "Украина подверглась DDoS-атакам со взломанных WordPress сайтов",
+        "article_url": "https://www.securitylab.ru/news/531396.php",
+        "article_desc": "Неизвестные хакеры заблокировали работу украинских сайтов."
+    },
+    "531395": {
+        "article_date_timestamp": 1651235077.0,
+        "article_title": "Илон Маск хочет ввести сквозное шифрование в twitter сообщениях",
+        "article_url": "https://www.securitylab.ru/news/531395.php",
+        "article_desc": "Отсутствие сквозного шифрования сообщений Twitter вызывает опасения"
+    },
+    "531392": {
+        "article_date_timestamp": 1651223353.0,
+        "article_title": "Китайская социальная сеть Weibo раскрывает местоположение и IP-адреса пользователей",
+        "article_url": "https://www.securitylab.ru/news/531392.php",
+        "article_desc": "Как уточнил представитель Sina Weibo, функционал отключить нельзя."
+    },
+    "531390": {
+        "article_date_timestamp": 1651215120.0,
+        "article_title": "Новая APT-группа Earth Berberoka атакует online-казино",
+        "article_url": "https://www.securitylab.ru/news/531390.php",
+        "article_desc": "В арсенал Earth Berberoka входят как хорошо проверенные инструменты, так и совершенно новое семейство вредоносного ПО."
+    },
+    "531391": {
+        "article_date_timestamp": 1651214911.0,
+        "article_title": "Европол: преступники начнут активно использовать дипфейки в будущем",
+        "article_url": "https://www.securitylab.ru/news/531391.php",
+        "article_desc": "Дипфейки используются злоумышленниками для дезинформации, создания порнографического контента и подделки документов."
+    },
+    "531389": {
+        "article_date_timestamp": 1651213691.0,
+        "article_title": "Авторский курс по безопасности Web-приложений",
+        "article_url": "https://www.securitylab.ru/news/531389.php",
+        "article_desc": "Учебный центр «Информзащита» предлагает слушателям практический двухдневный курс «Безопасность Web-приложений»."
+    },
+    "531388": {
+        "article_date_timestamp": 1651213233.0,
+        "article_title": "«Лаборатория Касперского» изучила предложения в даркнете о продаже доступа к учётным записям на популярных стриминговых сервисах",
+        "article_url": "https://www.securitylab.ru/news/531388.php",
+        "article_desc": "Cпециалисты обнаружили в даркнете десятки свежих объявлений о продаже доступа"
+    },
+    "531387": {
+        "article_date_timestamp": 1651209023.0,
+        "article_title": "Северокорейцы научились обходить правительственный контроль над смартфонами",
+        "article_url": "https://www.securitylab.ru/news/531387.php",
+        "article_desc": "Большая часть знаний о взломе телефонов поступила от северокорейцев, которых отправили в Китай на работу в сфере IT."
+    },
+    "531386": {
+        "article_date_timestamp": 1651207403.0,
+        "article_title": "Positive Technologies представила новую версию песочницы",
+        "article_url": "https://www.securitylab.ru/news/531386.php",
+        "article_desc": "В PT Sandbox 4.0 расширены возможности для проактивного поиска угроз."
+    },
+    "531385": {
+        "article_date_timestamp": 1651207253.0,
+        "article_title": "Эксперты рассказали о трех кибергруппировках, объединенных под названием TA410",
+        "article_url": "https://www.securitylab.ru/news/531385.php",
+        "article_desc": "TA410 вооружились новой версией трояна для удаленного доступа LookBack с функцией инфостилера."
+    },
+    "531384": {
+        "article_date_timestamp": 1651204873.0,
+        "article_title": "Amazon использует данные динамика Echo для таргетированной рекламы",
+        "article_url": "https://www.securitylab.ru/news/531384.php",
+        "article_desc": "Amazon делится пользовательскими данными с 41 рекламными партнерами."
+    },
+    "531383": {
+        "article_date_timestamp": 1651203160.0,
+        "article_title": "В Microsoft Edge появится встроенный VPN-сервис",
+        "article_url": "https://www.securitylab.ru/news/531383.php",
+        "article_desc": "VPN в Edge будет работать на базе сервиса Cloudflare."
+    },
+    "531382": {
+        "article_date_timestamp": 1651200673.0,
+        "article_title": "Похититель паролей RedLine Stealer продолжает триумфальное шествие по планете",
+        "article_url": "https://www.securitylab.ru/news/531382.php",
+        "article_desc": "В одном только апреле вредонос осуществил 10 тыс. атак в более чем 150 странах и регионах мира."
+    },
+    "531381": {
+        "article_date_timestamp": 1651200420.0,
+        "article_title": "ФСБ предлагает обязать криптобиржи передавать данные клиентов",
+        "article_url": "https://www.securitylab.ru/news/531381.php",
+        "article_desc": "Ведомство оставило отзыв на разработанный Минфином криптовалютный законопроект"
+    },
+    "531380": {
+        "article_date_timestamp": 1651199818.0,
+        "article_title": "Власти 34 стран преднамеренно отключали доступ в интернет своим гражданам в 2021 году",
+        "article_url": "https://www.securitylab.ru/news/531380.php",
+        "article_desc": "Правительства пытались остановить протесты или подавить инакомыслие подобным способом."
+    },
+    "531725": {
+        "article_date_timestamp": 1652863897.0,
+        "article_title": "Десятки тысяч сайтов на WordPress атакованы злоумышленниками",
+        "article_url": "https://www.securitylab.ru/news/531725.php",
+        "article_desc": "Хакеры проводят миллионы атак, используя уязвимость WordPress-плагина Tatsu Builder."
+    },
+    "531724": {
+        "article_date_timestamp": 1652861246.0,
+        "article_title": "Более 200 Android-приложений из Google Play распространяют шпионское ПО Facestealer",
+        "article_url": "https://www.securitylab.ru/news/531724.php",
+        "article_desc": "Из 200 приложений 42 маскируются под VPN-сервисы, 20 – под видеоредакторы и 13 – под фоторедакторы."
+    },
+    "531723": {
+        "article_date_timestamp": 1652860071.0,
+        "article_title": "Количество кибератак на сервисные компании увеличивается",
+        "article_url": "https://www.securitylab.ru/news/531723.php",
+        "article_desc": "Исследователи безопасности дали рекомендации по защите организаций и клиентов"
+    },
+    "531720": {
+        "article_date_timestamp": 1652858316.0,
+        "article_title": "Microsoft Defender теперь доступен со встроенным режимом устранения неполадок",
+        "article_url": "https://www.securitylab.ru/news/531720.php",
+        "article_desc": "Новую функцию в раннем доступе уже можно протестировать"
+    },
+    "531722": {
+        "article_date_timestamp": 1652858288.0,
+        "article_title": "АНБ обещает не внедрять бэкдоры в новые стандарты шифрования",
+        "article_url": "https://www.securitylab.ru/news/531722.php",
+        "article_desc": "Как заявили в ведомстве, новые стандарты шифрования будут настолько устойчивыми, что даже специалисты АНБ не смогут его взломать."
+    },
+    "531719": {
+        "article_date_timestamp": 1652853719.0,
+        "article_title": "Google запустит репозиторий проверенных и надежных пакетов с открытым исходным кодом",
+        "article_url": "https://www.securitylab.ru/news/531719.php",
+        "article_desc": "Assured OSS пригодится разработчикам корпоративных приложений, опасающихся проблем с цепочками поставок."
+    },
+    "531718": {
+        "article_date_timestamp": 1652851962.0,
+        "article_title": "«Космические пираты» атакуют авиакосмическую отрасль России",
+        "article_url": "https://www.securitylab.ru/news/531718.php",
+        "article_desc": "Новая группа хакеров с вероятным азиатским происхождением, атакует российскую космическую индустрию, используя ранее неизвестное вредоносное ПО."
+    },
+    "531717": {
+        "article_date_timestamp": 1652850962.0,
+        "article_title": "Пентагон переходит к реализации принятых ранее принципов этического использования ИИ",
+        "article_url": "https://www.securitylab.ru/news/531717.php",
+        "article_desc": "План реализации этических принципов для ИИ ожидает подписи замминистра обороны США."
+    },
+    "531716": {
+        "article_date_timestamp": 1652847980.0,
+        "article_title": "NVIDIA устраняет десять уязвимостей в драйверах графического процессора Windows",
+        "article_url": "https://www.securitylab.ru/news/531716.php",
+        "article_desc": "Также обновление получили и актуальные модели"
+    },
+    "531714": {
+        "article_date_timestamp": 1652842857.0,
+        "article_title": "Лавров считает, что Россия не останется без интернета",
+        "article_url": "https://www.securitylab.ru/news/531714.php",
+        "article_desc": "Лавров не может прогнозировать дальнейшее развитие технологий, связанных с интернетом,"
+    },
+    "531713": {
+        "article_date_timestamp": 1652842161.0,
+        "article_title": "Гонконг рассматривает возможность блокировки Telegram",
+        "article_url": "https://www.securitylab.ru/news/531713.php",
+        "article_desc": "Бывшая британская колония приближается к интернет-контролю в пекинском стиле."
+    },
+    "531712": {
+        "article_date_timestamp": 1652841539.0,
+        "article_title": "В России будет создана Национальная база генетической информации",
+        "article_url": "https://www.securitylab.ru/news/531712.php",
+        "article_desc": "Разработаны поправки в Федеральный закон «О государственном регулировании в области генно-инженерной деятельности»."
+    },
+    "531711": {
+        "article_date_timestamp": 1652841337.0,
+        "article_title": "Обновленный дроппер UpdateAgent вернулся на macOS",
+        "article_url": "https://www.securitylab.ru/news/531711.php",
+        "article_desc": "Дроппер распространяет рекламное ПО, а также обходит систему защиты Gatekeeper."
+    },
+    "531685": {
+        "article_date_timestamp": 1652839296.0,
+        "article_title": "Смотрите PHDays 11 в прямом эфире",
+        "article_url": "https://www.securitylab.ru/news/531685.php",
+        "article_desc": "крупнейший в Европе форум по практической кибербезопасности."
+    },
+    "531709": {
+        "article_date_timestamp": 1652838622.0,
+        "article_title": "В Россию вернулись  80% россиян, уехавших из страны в конце февраля",
+        "article_url": "https://www.securitylab.ru/news/531709.php",
+        "article_desc": "Минцифры России получило анализ операторов связи по симкартам"
+    }
+}
